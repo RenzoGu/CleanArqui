@@ -11,9 +11,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface Adapters", "Inter
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frameworks And Drivers", "Frameworks And Drivers", "{3519229A-48FD-408B-8F39-DCFBB3E90BC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArqui.Entities", "CleanArqui.Entities\CleanArqui.Entities.csproj", "{9B0C743A-9571-49FD-8131-26C609E4633F}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0C743A-9571-49FD-8131-26C609E4633F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0C743A-9571-49FD-8131-26C609E4633F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0C743A-9571-49FD-8131-26C609E4633F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0C743A-9571-49FD-8131-26C609E4633F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B0C743A-9571-49FD-8131-26C609E4633F} = {1E68FAEC-A335-4339-9B4A-C69B9E050B72}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0D31F972-6E5E-4BF0-A10A-3BA5BB364B71}
