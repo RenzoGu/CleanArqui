@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\bin\Debug\net6.0\CleanArqui.Entities.deps.json
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\bin\Debug\net6.0\CleanArqui.Entities.dll
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\bin\Debug\net6.0\CleanArqui.Entities.pdb
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\obj\Debug\net6.0\CleanArqui.Entities.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\obj\Debug\net6.0\CleanArqui.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\obj\Debug\net6.0\CleanArqui.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\obj\Debug\net6.0\CleanArqui.Entities.AssemblyInfo.cs
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\obj\Debug\net6.0\CleanArqui.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\obj\Debug\net6.0\CleanArqui.Entities.dll
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\obj\Debug\net6.0\refint\CleanArqui.Entities.dll
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\obj\Debug\net6.0\CleanArqui.Entities.pdb
+C:\Users\User\Desktop\CleanArqui\CleanArqui.Entities\obj\Debug\net6.0\ref\CleanArqui.Entities.dll

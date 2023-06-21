@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\bin\Debug\net6.0\CleanArqui.RepositoryEFCore.deps.json
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\bin\Debug\net6.0\CleanArqui.RepositoryEFCore.runtimeconfig.json
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\bin\Debug\net6.0\CleanArqui.RepositoryEFCore.dll
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\bin\Debug\net6.0\CleanArqui.RepositoryEFCore.pdb
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\bin\Debug\net6.0\CleanArqui.Entities.dll
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\bin\Debug\net6.0\CleanArqui.Entities.pdb
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\CleanArqui.RepositoryEFCore.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\CleanArqui.RepositoryEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\CleanArqui.RepositoryEFCore.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\CleanArqui.RepositoryEFCore.AssemblyInfo.cs
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\CleanArqui.RepositoryEFCore.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\CleanArqui.RepositoryEFCore.csproj.CopyComplete
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\CleanArqui.RepositoryEFCore.dll
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\refint\CleanArqui.RepositoryEFCore.dll
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\CleanArqui.RepositoryEFCore.pdb
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\CleanArqui.RepositoryEFCore.genruntimeconfig.cache
+C:\Users\User\Desktop\CleanArqui\CleanArqui.RepositoryEFCore\obj\Debug\net6.0\ref\CleanArqui.RepositoryEFCore.dll
